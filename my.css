@@ -89,3 +89,15 @@
     transform: scale(.2);
 }
 /* /es.9 */
+
+.ex-10-icon{
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin{
+
+    0% {
+        transform: rotate(1turn);
+    }
+}
+/* /es.10 */
