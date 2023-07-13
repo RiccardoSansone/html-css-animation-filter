@@ -47,3 +47,12 @@
 }
 /* /es.5 */
 
+.ex-6-img{
+    transition: 2s;
+}
+
+.ex-6-img:hover{
+    filter: grayscale(1);
+}
+/* /es.6 */
+
