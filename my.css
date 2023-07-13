@@ -33,3 +33,17 @@
     opacity: 0;
 }
 /* /es.4 */
+
+.ex-5-square{
+    transition: 1.2s;
+}
+
+.ex-5-square:hover{
+    transform: scale(2);
+}
+
+.ex-5-square:active{
+    transform: scale(.4);
+}
+/* /es.5 */
+
