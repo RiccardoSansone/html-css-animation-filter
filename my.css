@@ -56,3 +56,11 @@
 }
 /* /es.6 */
 
+.ex-7-img{
+    transition: 2.5s;
+}
+
+.ex-7-img:hover{
+    filter: grayscale(.6) sepia(.5); 
+}
+/* /es.7 */
