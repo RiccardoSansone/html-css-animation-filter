@@ -75,3 +75,17 @@
 }
 /* /es.8 */
 
+.ex-9-img{
+    transition: 2.5s;
+}
+
+.ex-9-img:hover{
+    filter: sepia(.6) grayscale(.5);
+    border-radius: 10%;
+    transform: scale(1.5);
+}
+
+.ex-9-img:active{
+    transform: scale(.2);
+}
+/* /es.9 */
